@@ -1,37 +1,6 @@
 ## Hi there 👋
 
-<!--
-**StutiPatel99/StutiPatel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <div align="center">
-
-```
-███████╗████████╗██╗   ██╗████████╗██╗
-██╔════╝╚══██╔══╝██║   ██║╚══██╔══╝██║
-███████╗   ██║   ██║   ██║   ██║   ██║
-╚════██║   ██║   ██║   ██║   ██║   ██║
-███████║   ██║   ╚██████╔╝   ██║   ██║
-╚══════╝   ╚═╝    ╚═════╝    ╚═╝   ╚═╝
-``` -->
-
-/* ============================================
- *   Hi, I'm Stuti Patel
- *   Full Stack & AI Engineer
- *   Austin, TX  ·  5+ years shipping prod
- * ============================================ */
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Stuti+Patel+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Building+cool+things+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Stuti+Patel+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Building+cool+things+%E2%9A%A1)
 
 
 ### Full Stack & AI Engineer · Austin, TX
