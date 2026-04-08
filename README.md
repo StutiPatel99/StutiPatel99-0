@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stutispatel/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://stuti-patel.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stutipatel2110@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stutispatel1999@gmail.com)
 
 </div>
 
@@ -109,7 +109,7 @@ current_focus = {
 
 I'm always down to chat about AI engineering, frontend architecture, or how to squeeze more performance out of your stack.
 
-📧 [stutispatel1999@gmail.com](mailto:stutispatel1999@gmail.com) · 📍 Austin, TX
+📧 [stutispatel1999@gmail.com](mailto:stutispatel1999@gmail.com)
 
 ---
 
