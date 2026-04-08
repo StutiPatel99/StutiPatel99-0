@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### Full Stack & AI Engineer · Austin, TX
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stutispatel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://stuti-patel.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stutipatel2110@gmail.com)
 
 </div>
@@ -43,7 +43,6 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 - 🧪 Running LLM fine-tuning experiments and prompt optimization pipelines
 - 🏗️ Previously @ **Capgemini** — microservices, design systems, AWS infra
 - 🎓 MS Computer Science @ **University at Buffalo** (Aug 2025)
-- ⚡ Fun fact: I brought a Lighthouse score from 62 → 88 and won't stop talking about it
 
 ---
 
@@ -64,7 +63,6 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
 **Backend & Cloud**
 
@@ -80,7 +78,6 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=flat&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ---
 
