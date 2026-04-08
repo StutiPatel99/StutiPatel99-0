@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Stuti+Patel+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Building+cool+things+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Stuti+Patel;Full+Stack+%26+AI+Engineer;Building+cool+things..)
 
 
-### Full Stack & AI Engineer · Austin, TX
+### Full Stack & AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stutispatel/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://stuti-patel.netlify.app/)
