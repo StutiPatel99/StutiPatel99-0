@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Stuti+Patel+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Building+cool+things+%E2%9A%A1)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Stuti%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20AI%20Engineer&descAlignY=55&descSize=18)
+
 ### Full Stack & AI Engineer · Austin, TX
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stutispatel/)
