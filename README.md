@@ -173,6 +173,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 -->
 
 **Frontend**
+<p align="left">Frontend Development</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
