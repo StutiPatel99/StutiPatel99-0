@@ -150,7 +150,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p align="left">Languages</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -172,8 +172,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 -->
 
-**Frontend**
-<p align="left">Frontend Development</p>
+<p align="left">Frontend</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -191,7 +190,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 -->
 
-**Backend**
+<p align="left">Backend</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -217,7 +216,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 -->
 
-**AI / ML**
+<p align="left">AI & ML</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
@@ -235,7 +234,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 
 -->
 
-**Databases**
+<p align="left">Databases</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -247,7 +246,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
 </div>
 
-**DevOps**
+<p align="left">DevOps</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
@@ -261,7 +260,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
 
-**Backend as a Service(BaaS)**
+<p align="left">Backend as a Service(Baas)</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
