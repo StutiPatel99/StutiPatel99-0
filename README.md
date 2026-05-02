@@ -148,6 +148,8 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 
 
 
+<!-- 
+
 ---
 
 ### 📈 Impact by the Numbers
@@ -162,6 +164,8 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 | 🟢 Production uptime | **99.9%** sustained |
 
 ---
+
+-->
 
 ### 🔭 What I'm Working On
 
