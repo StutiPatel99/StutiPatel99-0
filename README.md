@@ -150,7 +150,7 @@ I'm a Full Stack + AI Engineer with **5+ years** shipping production features en
 
 ### 🛠️ Tech Stack
 
-<p align="left">Languages</p>
+<p align="center"><b>Languages</b></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
