@@ -1,3 +1,5 @@
+<!--
+
 <h2 align="left">Hi 👋‹! My name is Stuti and I'm an AI/ Software Development Engineer!</h2>
 
 ###
@@ -134,10 +136,10 @@
   </a>
 </div>
 
+-->
 
 
-
-<!-- 
+ 
 
 ## Hi there 👋
 
@@ -237,5 +239,3 @@ I'm always down to chat about AI engineering, frontend architecture, or how to s
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=StutiPatel99&color=blueviolet&style=flat" alt="Profile views" />
 </div>  
-
->>
