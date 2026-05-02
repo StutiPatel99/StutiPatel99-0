@@ -134,13 +134,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/StutiPatel99/StutiPatel99/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
